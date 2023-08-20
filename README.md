@@ -1,0 +1,2 @@
+# lookscout
+For mindx project
